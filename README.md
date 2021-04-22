@@ -3,9 +3,9 @@
 
 ## Tools 🧰
 
-*Visual Studio Code
-*HTML,CSS
-*React
+- Visual Studio Code
+- HTML,CSS
+- React
 
 
 ### Objectives ⭐
